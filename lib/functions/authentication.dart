@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 
 class Authenticator extends StatefulWidget {
-    final AdmLogin;
-    Authenticator({@required this.AdmLogin});
+    final admLogin;
+    Authenticator({@required this.admLogin});
     _AuthenticatorState createState() => _AuthenticatorState();
   }
   
