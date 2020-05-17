@@ -1,9 +1,17 @@
 import 'package:app_restaurant_test/models/appBarGradient.dart';
 import 'package:app_restaurant_test/view/pages/settings.page.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
+ 
 class AdmLogin extends StatefulWidget {
+  final FirebaseUser user;
+
+  const AdmLogin({
+    Key key,
+    this.user
+    }) : super(key: key
+      );
   @override
   _AdmLogin createState() => _AdmLogin();
 }
