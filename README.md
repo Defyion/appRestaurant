@@ -1,16 +1,12 @@
 # App Restaurant Test
 
-A new Mega Gladiators team project.
+A new Mega Gladiators team project. The Mega Gladiators was a team project for a junior company called Mega Jr. which was born inside the Federal University of Mato Grosso do Sul in Brazil
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## The process has ended!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is already done.
